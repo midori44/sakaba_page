@@ -20,14 +20,90 @@
     <p>マストドン酒場は閉店しました。</p>
     <div style="text-align:right;">2021.1.1 @master</div>
     <div>
+        <p>History</p>
         <ul>
-            <li>2017.4.26: 開店</li>
-            <li>2021.1.1: 閉店</li>
+            <li>2017.4.26 開店</li>
+            <li>2021.1.1 閉店</li>
+            <li>登録 232 ユーザー</li>
+            <li>累計 124,084 トゥート</li>
         </ul>
+        <p>Staff</p>
         <ul>
-            <li>232 ユーザー</li>
-            <li>124,084 トゥート</li>
+            <li>master</li>
+            <li>ゾンビ</li>
+            <li>大ネズミ</li>
+            <li>スケルトン</li>
+            <li>酒場の記録</li>
+            <li>壊れかけた時計</li>
         </ul>
+        <p>Special thanks</p>
+        <ul>
+            <li>れんみ</li>
+            <li>カロン</li>
+            <li>s</li>
+            <li>こんちえ@双剣使いのレアハンター</li>
+            <li>にゃーどりゃ</li>
+            <li>放蕩してた牡牛</li>
+            <li>かるめ</li>
+            <li>カタル</li>
+            <li>Rayfie</li>
+            <li>ただの酔っ払い</li>
+            <li>ryosuke</li>
+            <li>🌟みそぎ🌟</li>
+            <li>🦋きぐみ🦋</li>
+            <li>せいぶつ@人形使い</li>
+            <li>凛々子🍻</li>
+            <li>机バンナー</li>
+            <li>イッサー・オォン</li>
+            <li>本無意◆AlienJP1E2</li>
+            <li>腐れ輝きのタレト</li>
+            <li>ウルフマン</li>
+            <li>ねび</li>
+            <li>ウルー</li>
+            <li>シャロン</li>
+            <li>Monolith_GunCaster</li>
+            <li>ライオット</li>
+            <li>クローバー</li>
+            <li>カルセット</li>
+            <li>モノ</li>
+            <li>マレ＠旅の行商人</li>
+            <li>Jic_ciL</li>
+            <li>じゃがいも剣士</li>
+            <li>名も無き旅人🍻</li>
+            <li>岩</li>
+            <li>おーぐろ</li>
+            <li>あんい</li>
+            <li>aki</li>
+            <li>テンコ＠短剣使いの薬売り(休眠中)</li>
+            <li>冒険児マメルド</li>
+            <li>モンク</li>
+            <li>老人23号</li>
+            <li>レグルス</li>
+            <li>raspi0124</li>
+            <li>ヘイフラワー</li>
+            <li>脳筋戦士</li>
+            <li>ただの酔っ払い</li>
+            <li>冒険者キール</li>
+            <li>ほらふきメンソグーロ</li>
+            <li>鰯水</li>
+            <li>フェアメヒトニス</li>
+            <li>mikio</li>
+            <li>シルキー</li>
+            <li>キツネ</li>
+            <li>悠久の旅剣士</li>
+            <li>A</li>
+            <li>軽装騎士セリアン</li>
+            <li>たかし</li>
+            <li>しの</li>
+            <li>声野 阿弥</li>
+            <li>ヤモリ</li>
+            <li>カル</li>
+            <li>デッドトルーパー</li>
+            <li>leaf</li>
+            <li>necrodancer</li>
+            <li>ミナナ</li>
+        </ul>
+        <p>ほか、登録してくれたユーザーの皆様</p>
     </div>
     <div style="text-align:center; margin:40px 0 20px;">
         <div>イラスト：@s様</div>
